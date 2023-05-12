@@ -1,0 +1,5 @@
+/.venv
+/audio_files
+/old_files
+*.exe
+*.wav
